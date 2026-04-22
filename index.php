@@ -31,7 +31,7 @@ $msg_ok  = urldecode($_GET['msg'] ?? '');
   </div>
   <div class="hero-content">
     <div class="hero-badge">🌱 100% Natural · Sin conservantes</div>
-    <h1>Naturaleza en<br><em>cada sorbo</em></h1>
+    <h1>Naturaleza en<br><em>cada sorboooooooooooo</em></h1>
     <p>Pulpas de frutas seleccionadas, congeladas al instante para preservar cada vitamina, mineral y sabor. Tu salud, nuestra misión.</p>
     <div class="hero-btns">
       <a href="#productos" class="btn-primary">🍓 Ver Productos</a>
